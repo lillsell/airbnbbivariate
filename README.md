@@ -1,0 +1,1 @@
+This was a test map that we made in class to go over how to make a custom bivariate map. It is a map of Ashville, NC and its many airbnbs. The airbnbs are sorted into different classes, which are color coded, and there are also polygons depicting the zoning districts of Ashville. 
